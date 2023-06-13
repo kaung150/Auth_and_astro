@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   padding: 0;
   background-color: black;
@@ -39,4 +39,4 @@ body {
 
 .glow::after {
   filter: blur(40px);
-}
+} */
