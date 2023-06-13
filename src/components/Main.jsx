@@ -15,7 +15,7 @@ const Main = () => {
 
       <Splide options={{ arrows: false }}>
         <SplideSlide>
-          <div className="text-white text-center px-6 py-4 mx-6 border mt-10 md:mx-80 border-[#E1FF3C]">
+          <div className="text-white text-center px-6 py-4 mx-6  mt-10 md:mx-80 backgroundNeon glow">
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
               fugiat amet repellendus reiciendis, repudiandae harum aspernatur,

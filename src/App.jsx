@@ -11,7 +11,7 @@ import SideObjects4 from "./components/SideObjects4";
 
 const App = () => {
   return (
-    <div className="bg-gradient-to-b from-[#2A2D32] to-[#131313]  relative h-auto pb-10 container mx-auto">
+    <div className="bg-gradient-to-b from-[#2A2D32] to-[#131313]  relative h-auto pb-10  mx-auto">
       <Particle />
       <SideObjects1 />
       <Hotline />
